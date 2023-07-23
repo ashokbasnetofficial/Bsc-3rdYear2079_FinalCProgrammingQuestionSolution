@@ -1,4 +1,4 @@
-// Online C compiler to run C program online
+// C lower to upper case conversion
 #include <stdio.h>
 #define maxStringLen 50
 int main() {
